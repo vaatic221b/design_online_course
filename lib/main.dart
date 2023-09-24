@@ -28,7 +28,7 @@ class MyHomePage extends StatefulWidget {
   State<MyHomePage> createState() => _MyHomePageState();
 }
 
-//Graphic Design Master
+//Graphic Design Master Page
 class TargetScreen extends StatelessWidget {
   const TargetScreen({super.key});
   @override
